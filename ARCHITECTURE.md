@@ -1,4 +1,3 @@
-markdown
 # Architecture Overview
 
 ## High-level structure
